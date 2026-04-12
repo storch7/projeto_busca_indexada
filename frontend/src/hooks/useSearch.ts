@@ -1,0 +1,1 @@
+// Hook para gerenciar a busca
