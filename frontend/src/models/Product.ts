@@ -1,0 +1,1 @@
+// Apenas as tipagens baseadas na FakeStoreAPI 
